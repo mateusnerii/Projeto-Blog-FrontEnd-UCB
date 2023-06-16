@@ -174,16 +174,24 @@ button {
  
 
 
+.bemvindoaoblog{
 
+ margin-right: 0px;
+ margin-left: 120px;
+ margin-bottom: 120px;
+ margin-top: 40px;
+ font-size: 22px;
+ text-align: center;
+ text-decoration-color: #603bd8;
 
-
+}
 
   
  .textoposts{
   align-items: center;
   margin-right: 0px;
   margin-left: 80px;
-  font-size: 20px;
+  font-size: 15px;
 
 
 
@@ -192,7 +200,7 @@ button {
  .iframe {
     position: absolute;
     margin: auto;
-    top: 110%;
+    top: 85%;
     left: 50%;
     transform: translate(-50%, -50%);
 
@@ -204,7 +212,7 @@ button {
   align-items: center;
   margin-top: 400px;
   margin-left: 80px;
-  font-size: 20px;
+  font-size: 15px;
 
 
 
@@ -212,7 +220,7 @@ button {
 .iframe2 {
   position: absolute;
   margin: auto;
-  top: 1820px;
+  top: 1520px;
   left: 50%;
   transform: translate(-50%, -50%);
 }
